@@ -3,8 +3,8 @@ box-sizing: border-box;
 }
 
 body{
-    color: white;
-    background: rgb(24, 6, 59);
+    color: #f9d09e   ;
+    background: #61401f(24, 6, 59);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     line-height: 1.5;
@@ -26,7 +26,7 @@ body{
 
 .nav-link{
     text-decoration: none;
-    color: inherit;
+    color: #61401f;
     padding: 6px 10px;
     border-radius: 8px;
 }
