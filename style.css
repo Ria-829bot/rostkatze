@@ -4,7 +4,7 @@ box-sizing: border-box;
 
 body{
     color: #f9d09e   ;
-    background: #61401f(24, 6, 59);
+    background: #61401f;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     line-height: 1.5;
@@ -36,7 +36,7 @@ body{
 }
 
 .nav-link:focus{
-    outline: 2px solid black;
+    outline: 2px solid #f9d09e;
     outline-offset: 2px;
 }
 
@@ -106,10 +106,10 @@ p{
 }
 
 .hero-card{
-    border: 1px solid rgb(126, 203, 254);
+    border: 1px solid rgb(251, 251, 252);
     border-radius: 12px;
     padding: 12px;
-    background:rgba(0, 106, 255, 0.521);
+    background:#61401f(0, 106, 255, 0.521);
     margin-top: 20px;
 }
 
