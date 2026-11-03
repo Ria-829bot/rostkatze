@@ -26,7 +26,7 @@ body{
 
 .nav-link{
     text-decoration: none;
-    color: #61401f;
+    color: #faf9f9;
     padding: 6px 10px;
     border-radius: 8px;
 }
@@ -106,7 +106,7 @@ p{
 }
 
 .hero-card{
-    border: 1px solid rgb(251, 251, 252);
+    border: 1px solid rgba(251, 251, 252, 0.589);
     border-radius: 12px;
     padding: 12px;
     background:#61401f(0, 106, 255, 0.521);
