@@ -100,6 +100,12 @@ p{
     display: block; 
 }
 
+.responsive-img3 {
+    max-width: 75%;
+    height: auto;
+    display: auto;
+}
+
 .hero{
     display: grid;
     gap: 12px;
