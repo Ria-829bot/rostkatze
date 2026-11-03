@@ -26,9 +26,10 @@ body{
 
 .nav-link{
     text-decoration: none;
-    color: #faf9f9;
+    color: #f9d09e;;
     padding: 6px 10px;
     border-radius: 8px;
+    font-weight: 600;
 }
 
 .nav-link:hover{
@@ -37,7 +38,7 @@ body{
 
 .nav-link:focus{
     outline: 2px solid #f9d09e;
-    outline-offset: 2px;
+    outline:none
 }
 
 .site-header{
