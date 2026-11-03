@@ -107,11 +107,12 @@ p{
 }
 
 .hero-card{
-    border: 1px solid rgba(251, 251, 252, 0.589);
+    border: 1px solid rgba(251, 251, 252, 0.63);
     border-radius: 12px;
     padding: 12px;
     background:#61401f(0, 106, 255, 0.521);
     margin-top: 20px;
+    height: fit-content;
 }
 
 @media (min-width: 700px) {
