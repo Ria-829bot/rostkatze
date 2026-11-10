@@ -131,3 +131,18 @@ p{
         grid-template-columns: 1.3fr 1fr;
         align-items: start;
     }
+body {
+    cursor: default;
+}
+
+#cat-cursor {
+#cat-cursor 
+    position: fixed;
+    pointer-events: none;
+    z-index: 999999;
+    font-size: 25px;
+    display: none;
+}
+    
+    
+
