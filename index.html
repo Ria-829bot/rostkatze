@@ -101,5 +101,18 @@
     </footer>
     <script src="script.js"></script>
     
+
+<div id="cat-cursor">🐈</div>
+
+<script>
+const cat = document.getElementById("cat-cursor");
+
+document.addEventListener("mousemove", (e) => {
+    cat.style.display = "block";
+    cat.style.left = e.clientX + 10 + "px";
+    cat.style.top = e.clientY + 10 + "px";
+});
+</script>
+
 </body>
 </html>
