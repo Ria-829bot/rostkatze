@@ -131,8 +131,3 @@ p{
         grid-template-columns: 1.3fr 1fr;
         align-items: start;
     }
-}
-
- * {
-    cursor: url("https://cur.cursors-4u.net/others/oth-8/oth710.cur"), auto !important;
-}
