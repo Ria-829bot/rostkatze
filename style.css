@@ -130,10 +130,8 @@ p{
     .hero {
         grid-template-columns: 1.3fr 1fr;
         align-items: start;
-         }
-
-         body {
-    cursor: default;}
+    }
+}
 
 #cat-cursor {
     position: fixed;
@@ -142,5 +140,3 @@ p{
     font-size: 25px;
     display: none;
 }
-
-    
